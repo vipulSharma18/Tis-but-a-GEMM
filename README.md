@@ -14,7 +14,8 @@ Implementations in:
 0. PTX
 1. CUDA C++
 2. Triton
-3. CUTLASS (CuTe DSL)
-4. PyTorch Eager
-5. PyTorch Compile with Triton
-6. PyTorch Compile with TensorRT
+3. Mojo
+4. CUTLASS (CuTe DSL)
+5. PyTorch Eager
+6. PyTorch Compile with Triton
+7. PyTorch Compile with TensorRT
