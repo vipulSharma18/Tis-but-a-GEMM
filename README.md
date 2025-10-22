@@ -8,12 +8,12 @@ A tangent back to the basics of GPU programming. How hard could it be?
 
 | GPU        | WMMA | WGMMA | 2CTA MMA | TMEM | TCGEN |
 |------------|:----:|:-----:|:--------:|:----:|:-----:|
-| RTX 3090   |      |       |          |      |       |
-| A100       |      |       |          |      |       |
-| H100       |      |       |          |      |       |
-| RTX 4090   |      |       |          |      |       |
+| RTX 3090   |      |   X   |    x     |  x   |   x   |
+| A100       |      |   X   |    x     |  x   |   x   |
+| RTX 4090   |      |   X   |    x     |  x   |   x   |
+| H100       |      |       |          |  x   |   x   |
 | B200       |      |       |          |      |       |
-| RTX 5090   |      |       |          |      |       |
+| RTX 5090   |      |       |    ?     |  ?   |   x   |
 
 ## Implementations in:
 
