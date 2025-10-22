@@ -1,15 +1,16 @@
 # Tis-but-a-GEMM
-I can optimize GEMM all day.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2eda7b4-96f5-458a-afd2-65c77e8292ff" />
 
 A tangent back to the basics of GPU programming.
 
-Unique Hardware Features: https://docs.google.com/document/d/1_ct_ImtU7ulqEljhKXiBiT6t6G_icGmZXQyODSLPn5o/edit?tab=t.0
+Unique **Hardware Features**: https://docs.google.com/document/d/1_ct_ImtU7ulqEljhKXiBiT6t6G_icGmZXQyODSLPn5o/edit?tab=t.0
 
-GPUs that come to mind: A100, H100, RTX 4090, B200, RTX 5090
+**GPUs** that come to mind: A100, H100, RTX 4090, B200, RTX 5090
 
-Features that come to mind: WMMA, WGMMA, 2CTA MMA, TMEM, and TCGEN.
+**Features** that come to mind: WMMA, WGMMA, 2CTA MMA, TMEM, and TCGEN.
 
-Implementations in:
+## Implementations in:
 
 0. PTX
 1. CUDA C++
