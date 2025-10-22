@@ -1,6 +1,8 @@
 # Tis-but-a-GEMM
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2eda7b4-96f5-458a-afd2-65c77e8292ff" />
+<div align="center">
+  <img width="384" height="256" alt="image" src="https://github.com/user-attachments/assets/b2eda7b4-96f5-458a-afd2-65c77e8292ff" />
+</div>
 
 A tangent back to the basics of GPU programming.
 
